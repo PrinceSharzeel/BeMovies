@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\princes\\Desktop\\android-tmdb-example-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\Users\\princes\\Desktop\\android-tmdb-example-master1\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\princes\\Desktop\\android-tmdb-example-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_imdbsearch_result.xml",
+        "source": "C:\\Users\\princes\\Desktop\\android-tmdb-example-master1\\app\\src\\main\\res\\menu\\activity_imdbsearch_result.xml"
+    }
+]
